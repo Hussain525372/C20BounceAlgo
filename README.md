@@ -1,1 +1,2 @@
-# C20BounceAlgo
+# collisionAlgorithm
+Algorithm to detect collision between two objects
